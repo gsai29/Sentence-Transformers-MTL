@@ -13,6 +13,6 @@ This repository contains implementations for a series of tasks aimed at explorin
 To begin exploring the projects:
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/sentence-transformers-mtl.git
+git clone https://github.com/gsai29/sentence-transformers-mtl.git
 ```
 2. Navigate into each task directory to find specific instructions on running the models and exploring the configurations.
